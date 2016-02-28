@@ -14,17 +14,17 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Our Process</h2>
-  <p class="post-excerpt">Every remodeling project begins with custom design services to help you imagine your new kitchen, bath or living space. See what’s possible by exploring floor plans and design options without the commitment of signing a comprehensive remodeling contract. </p>
+  <p class="post-excerpt">Every remodeling project begins with custom design services to help you imagine your new kitchen, bath or living space. See what’s possible. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Our People</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <p class="post-excerpt">We utilize some of the best certified remodelers, kitchen and bath designers and lead carpenters in the greater Minneapolis area.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">Discover</h2>
+  <p class="post-excerpt">Let us show you what is possible</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

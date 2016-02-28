@@ -13,7 +13,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Our Process</h2>
+  <h2 class="post-title">Our Process2</h2>
   <p class="post-excerpt">Every remodeling project begins with custom design services to help you imagine your new kitchen, bath or living space. See what’s possible. </p>
 </div><!-- /.tile -->
 

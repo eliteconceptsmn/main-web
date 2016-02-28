@@ -13,7 +13,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Our Process2</h2>
+  <h2 class="post-title">Our Process</h2>
   <p class="post-excerpt">Every remodeling project begins with custom design services to help you imagine your new kitchen, bath or living space. See what’s possible. </p>
 </div><!-- /.tile -->
 
@@ -22,9 +22,5 @@ image:
   <p class="post-excerpt">We utilize some of the best certified remodelers, kitchen and bath designers and lead carpenters in the greater Minneapolis area.</p>
 </div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title">Discover</h2>
-  <p class="post-excerpt">Let us show you what is possible</p>
-</div><!-- /.tile -->
 
 </div><!-- /.tiles -->

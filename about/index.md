@@ -18,7 +18,7 @@ Just a little something I'm using to jump start a site refresh. I like to think 
 
 <form action="//formspree.io/info@eliteconceptsbychip.com"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+    name: <input type="text" name="name">
+    email: <input type="email" name="_replyto">
     <input type="submit" value="Send">
 </form>

@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: Getting Started
+- title: Our Work
   url: /getting-started/
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: Our Process
   url: /articles/
   excerpt: "Examples of long form posts."
   image: 400x250.gif
 
-- title: Media
+- title: Getting Started
   url: /media/
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif

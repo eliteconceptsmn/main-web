@@ -23,4 +23,4 @@ Just a little something I'm using to jump start a site refresh. I like to think 
     <input type="submit" value="Send">
 </form>
 
-<iframe src="https://docs.google.com/forms/d/1O_2-Wik58AC9qNxaXm4WxcWbVaI8wOWrLzBXZR-2FjU/viewform?embedded=true" width="760" height="1300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="overflow: hidden;">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1O_2-Wik58AC9qNxaXm4WxcWbVaI8wOWrLzBXZR-2FjU/viewform?embedded=true" width="760" height="1300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="overflow: hidden; font-family: Georgia,Times,'Times New Roman',serif; color: #313130;">Loading...</iframe>

@@ -8,17 +8,17 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Our work</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">Our Work</h2>
+  <p class="post-excerpt">Elite Concepts brings the highest standards of quality and craftsmanship to every project we touch, large or small. Our work speaks for itself.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Our Process</h2>
+  <p class="post-excerpt">Every remodeling project begins with custom design services to help you imagine your new kitchen, bath or living space. See what’s possible by exploring floor plans and design options without the commitment of signing a comprehensive remodeling contract. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
+  <h2 class="post-title">Our People</h2>
   <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
 </div><!-- /.tile -->
 

@@ -8,7 +8,7 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Our Work</h2>
+  <h2 class="post-title">Our Work is good</h2>
   <p class="post-excerpt">Elite Concepts brings the highest standards of quality and craftsmanship to every project we touch, large or small. Our work speaks for itself.</p>
 </div><!-- /.tile -->
 
